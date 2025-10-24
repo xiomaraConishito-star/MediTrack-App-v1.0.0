@@ -12,13 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MediTrackApp">
         <activity
-            android:name=".MedicalRecordDetailActivity"
+            android:name=".ui.detail.MedicalRecordDetailActivity"
             android:exported="false" />
         <activity
-            android:name=".AddMedicalRecordActivity"
+            android:name=".ui.record.AddMedicalRecordActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.home.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
