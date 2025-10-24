@@ -1,2 +1,2 @@
 # MediTrack-App-v1.0.0
-Examen sustitutoriorio
+Examen sustitutorio
